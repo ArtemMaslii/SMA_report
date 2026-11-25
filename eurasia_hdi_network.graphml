@@ -1,0 +1,2298 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d21" for="edge" attr.name="edge_type" attr.type="string"/>
+<key id="d20" for="node" attr.name="cluster" attr.type="string"/>
+<key id="d19" for="node" attr.name="community" attr.type="string"/>
+<key id="d18" for="node" attr.name="eigenvector" attr.type="double"/>
+<key id="d17" for="node" attr.name="closeness" attr.type="double"/>
+<key id="d16" for="node" attr.name="betweenness" attr.type="double"/>
+<key id="d15" for="node" attr.name="degree" attr.type="long"/>
+<key id="d14" for="node" attr.name="hdi_group" attr.type="string"/>
+<key id="d13" for="node" attr.name="gni_pc_ppp" attr.type="long"/>
+<key id="d12" for="node" attr.name="mean_schooling" attr.type="double"/>
+<key id="d11" for="node" attr.name="expected_schooling" attr.type="double"/>
+<key id="d10" for="node" attr.name="life_expectancy" attr.type="double"/>
+<key id="d9" for="node" attr.name="hdi" attr.type="double"/>
+<key id="d8" for="node" attr.name="plot_lon" attr.type="double"/>
+<key id="d7" for="node" attr.name="plot_lat" attr.type="double"/>
+<key id="d6" for="node" attr.name="former_ussr" attr.type="long"/>
+<key id="d5" for="node" attr.name="eu_member" attr.type="long"/>
+<key id="d4" for="node" attr.name="landlocked" attr.type="long"/>
+<key id="d3" for="node" attr.name="continent" attr.type="string"/>
+<key id="d2" for="node" attr.name="subregion" attr.type="string"/>
+<key id="d1" for="node" attr.name="iso3" attr.type="string"/>
+<key id="d0" for="node" attr.name="country" attr.type="string"/>
+<graph edgedefault="undirected"><node id="ALB">
+  <data key="d0">Albania</data>
+  <data key="d1">ALB</data>
+  <data key="d2">Southern Europe</data>
+  <data key="d3">Europe</data>
+  <data key="d4">0</data>
+  <data key="d5">0</data>
+  <data key="d6">0</data>
+  <data key="d7">41.0</data>
+  <data key="d8">20.0</data>
+  <data key="d9">0.81</data>
+  <data key="d10">79.6</data>
+  <data key="d11">14.5</data>
+  <data key="d12">10.2</data>
+  <data key="d13">17627</data>
+  <data key="d14">Very high</data>
+  <data key="d15">3</data>
+  <data key="d16">0.004795945491434215</data>
+  <data key="d17">0.20923913043478262</data>
+  <data key="d18">0.021260916177321943</data>
+  <data key="d19">Balkans &amp; Danube</data>
+  <data key="d20">B · Upper-middle / transition</data>
+</node>
+<node id="AUT">
+  <data key="d0">Austria</data>
+  <data key="d1">AUT</data>
+  <data key="d2">Western Europe</data>
+  <data key="d3">Europe</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">0</data>
+  <data key="d7">47.6</data>
+  <data key="d8">14.6</data>
+  <data key="d9">0.93</data>
+  <data key="d10">82.0</data>
+  <data key="d11">16.3</data>
+  <data key="d12">12.4</data>
+  <data key="d13">63479</data>
+  <data key="d14">Very high</data>
+  <data key="d15">7</data>
+  <data key="d16">0.04469196406995452</data>
+  <data key="d17">0.2361963190184049</data>
+  <data key="d18">0.1264081372387475</data>
+  <data key="d19">Western Europe</data>
+  <data key="d20">A · Advanced</data>
+</node>
+<node id="BLR">
+  <data key="d0">Belarus</data>
+  <data key="d1">BLR</data>
+  <data key="d2">Eastern Europe</data>
+  <data key="d3">Europe</data>
+  <data key="d4">1</data>
+  <data key="d5">0</data>
+  <data key="d6">1</data>
+  <data key="d7">53.9</data>
+  <data key="d8">27.57</data>
+  <data key="d9">0.824</data>
+  <data key="d10">74.4</data>
+  <data key="d11">13.7</data>
+  <data key="d12">12.3</data>
+  <data key="d13">26725</data>
+  <data key="d14">Very high</data>
+  <data key="d15">5</data>
+  <data key="d16">0.004546780401189148</data>
+  <data key="d17">0.2873134328358209</data>
+  <data key="d18">0.2041741896723904</data>
+  <data key="d19">Baltic ring &amp; Russia</data>
+  <data key="d20">B · Upper-middle / transition</data>
+</node>
+<node id="BEL">
+  <data key="d0">Belgium</data>
+  <data key="d1">BEL</data>
+  <data key="d2">Western Europe</data>
+  <data key="d3">Europe</data>
+  <data key="d4">0</data>
+  <data key="d5">1</data>
+  <data key="d6">0</data>
+  <data key="d7">50.85</data>
+  <data key="d8">4.35</data>
+  <data key="d9">0.951</data>
+  <data key="d10">82.1</data>
+  <data key="d11">19.0</data>
+  <data key="d12">12.7</data>
+  <data key="d13">63582</data>
+  <data key="d14">Very high</data>
+  <data key="d15">4</data>
+  <data key="d16">0.0011107313738892687</data>
+  <data key="d17">0.212707182320442</data>
+  <data key="d18">0.04726979600033174</data>
+  <data key="d19">Western Europe</data>
+  <data key="d20">A · Advanced</data>
+</node>
+<node id="BIH">
+  <data key="d0">Bosnia and Herzegovina</data>
+  <data key="d1">BIH</data>
+  <data key="d2">Southern Europe</data>
+  <data key="d3">Europe</data>
+  <data key="d4">0</data>
+  <data key="d5">0</data>
+  <data key="d6">0</data>
+  <data key="d7">44.2</data>
+  <data key="d8">17.8</data>
+  <data key="d9">0.804</data>
+  <data key="d10">77.9</data>
+  <data key="d11">13.2</data>
+  <data key="d12">11.0</data>
+  <data key="d13">19827</data>
+  <data key="d14">Very high</data>
+  <data key="d15">3</data>
+  <data key="d16">0.0</data>
+  <data key="d17">0.20698924731182797</data>
+  <data key="d18">0.03172947861966856</data>
+  <data key="d19">Balkans &amp; Danube</data>
+  <data key="d20">B · Upper-middle / transition</data>
+</node>
+<node id="BGR">
+  <data key="d0">Bulgaria</data>
+  <data key="d1">BGR</data>
+  <data key="d2">Eastern Europe</data>
+  <data key="d3">Europe</data>
+  <data key="d4">0</data>
+  <data key="d5">1</data>
+  <data key="d6">0</data>
+  <data key="d7">42.7</data>
+  <data key="d8">23.32</data>
+  <data key="d9">0.845</data>
+  <data key="d10">75.6</data>
+  <data key="d11">15.3</data>
+  <data key="d12">11.5</data>
+  <data key="d13">32175</data>
+  <data key="d14">Very high</data>
+  <data key="d15">5</data>
+  <data key="d16">0.07617372984991637</data>
+  <data key="d17">0.25666666666666665</data>
+  <data key="d18">0.07202192577865023</data>
+  <data key="d19">Balkans &amp; Danube</data>
+  <data key="d20">B · Upper-middle / transition</data>
+</node>
+<node id="HRV">
+  <data key="d0">Croatia</data>
+  <data key="d1">HRV</data>
+  <data key="d2">Southern Europe</data>
+  <data key="d3">Europe</data>
+  <data key="d4">0</data>
+  <data key="d5">1</data>
+  <data key="d6">0</data>
+  <data key="d7">45.3</data>
+  <data key="d8">16.3</data>
+  <data key="d9">0.889</data>
+  <data key="d10">78.6</data>
+  <data key="d11">16.3</data>
+  <data key="d12">12.1</data>
+  <data key="d13">41380</data>
+  <data key="d14">Very high</data>
+  <data key="d15">5</data>
+  <data key="d16">0.025046188716728673</data>
+  <data key="d17">0.23692307692307693</data>
+  <data key="d18">0.0627900331386683</data>
+  <data key="d19">Balkans &amp; Danube</data>
+  <data key="d20">A · Advanced</data>
+</node>
+<node id="CZE">
+  <data key="d0">Czechia</data>
+  <data key="d1">CZE</data>
+  <data key="d2">Eastern Europe</data>
+  <data key="d3">Europe</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">0</data>
+  <data key="d7">49.8</data>
+  <data key="d8">15.3</data>
+  <data key="d9">0.915</data>
+  <data key="d10">79.8</data>
+  <data key="d11">16.8</data>
+  <data key="d12">13.0</data>
+  <data key="d13">45889</data>
+  <data key="d14">Very high</data>
+  <data key="d15">4</data>
+  <data key="d16">0.005020338513161476</data>
+  <data key="d17">0.2532894736842105</data>
+  <data key="d18">0.11278731076714792</data>
+  <data key="d19">Western Europe</data>
+  <data key="d20">A · Advanced</data>
+</node>
+<node id="DNK">
+  <data key="d0">Denmark</data>
+  <data key="d1">DNK</data>
+  <data key="d2">Northern Europe</data>
+  <data key="d3">Europe</data>
+  <data key="d4">0</data>
+  <data key="d5">1</data>
+  <data key="d6">0</data>
+  <data key="d7">55.68</data>
+  <data key="d8">12.57</data>
+  <data key="d9">0.962</data>
+  <data key="d10">81.9</data>
+  <data key="d11">18.7</data>
+  <data key="d12">13.0</data>
+  <data key="d13">76008</data>
+  <data key="d14">Very high</data>
+  <data key="d15">2</data>
+  <data key="d16">0.009366835033273856</data>
+  <data key="d17">0.21153846153846154</data>
+  <data key="d18">0.02948788555688801</data>
+  <data key="d19">Baltic ring &amp; Russia</data>
+  <data key="d20">A · Advanced</data>
+</node>
+<node id="EST">
+  <data key="d0">Estonia</data>
+  <data key="d1">EST</data>
+  <data key="d2">Northern Europe</data>
+  <data key="d3">Europe</data>
+  <data key="d4">0</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7">59.44</data>
+  <data key="d8">24.75</data>
+  <data key="d9">0.905</data>
+  <data key="d10">79.2</data>
+  <data key="d11">16.0</data>
+  <data key="d12">13.6</data>
+  <data key="d13">40881</data>
+  <data key="d14">Very high</data>
+  <data key="d15">2</data>
+  <data key="d16">0.0</data>
+  <data key="d17">0.26013513513513514</data>
+  <data key="d18">0.09355440061791655</data>
+  <data key="d19">Baltic ring &amp; Russia</data>
+  <data key="d20">A · Advanced</data>
+</node>
+<node id="FIN">
+  <data key="d0">Finland</data>
+  <data key="d1">FIN</data>
+  <data key="d2">Northern Europe</data>
+  <data key="d3">Europe</data>
+  <data key="d4">0</data>
+  <data key="d5">1</data>
+  <data key="d6">0</data>
+  <data key="d7">60.17</data>
+  <data key="d8">24.94</data>
+  <data key="d9">0.948</data>
+  <data key="d10">81.9</data>
+  <data key="d11">19.5</data>
+  <data key="d12">13.0</data>
+  <data key="d13">57068</data>
+  <data key="d14">Very high</data>
+  <data key="d15">3</data>
+  <data key="d16">0.01485613384109623</data>
+  <data key="d17">0.2636986301369863</data>
+  <data key="d18">0.08945971603500397</data>
+  <data key="d19">Baltic ring &amp; Russia</data>
+  <data key="d20">A · Advanced</data>
+</node>
+<node id="FRA">
+  <data key="d0">France</data>
+  <data key="d1">FRA</data>
+  <data key="d2">Western Europe</data>
+  <data key="d3">Europe</data>
+  <data key="d4">0</data>
+  <data key="d5">1</data>
+  <data key="d6">0</data>
+  <data key="d7">48.86</data>
+  <data key="d8">2.35</data>
+  <data key="d9">0.92</data>
+  <data key="d10">83.3</data>
+  <data key="d11">16.1</data>
+  <data key="d12">11.8</data>
+  <data key="d13">55060</data>
+  <data key="d14">Very high</data>
+  <data key="d15">7</data>
+  <data key="d16">0.10531282342628892</data>
+  <data key="d17">0.21875</data>
+  <data key="d18">0.06429538292887338</data>
+  <data key="d19">Western Europe</data>
+  <data key="d20">A · Advanced</data>
+</node>
+<node id="DEU">
+  <data key="d0">Germany</data>
+  <data key="d1">DEU</data>
+  <data key="d2">Western Europe</data>
+  <data key="d3">Europe</data>
+  <data key="d4">0</data>
+  <data key="d5">1</data>
+  <data key="d6">0</data>
+  <data key="d7">51.1</data>
+  <data key="d8">10.4</data>
+  <data key="d9">0.959</data>
+  <data key="d10">81.4</data>
+  <data key="d11">17.3</data>
+  <data key="d12">14.3</data>
+  <data key="d13">64053</data>
+  <data key="d14">Very high</data>
+  <data key="d15">9</data>
+  <data key="d16">0.2034717598798254</data>
+  <data key="d17">0.2619047619047619</data>
+  <data key="d18">0.13271055952625962</data>
+  <data key="d19">Western Europe</data>
+  <data key="d20">A · Advanced</data>
+</node>
+<node id="GRC">
+  <data key="d0">Greece</data>
+  <data key="d1">GRC</data>
+  <data key="d2">Southern Europe</data>
+  <data key="d3">Europe</data>
+  <data key="d4">0</data>
+  <data key="d5">1</data>
+  <data key="d6">0</data>
+  <data key="d7">37.98</data>
+  <data key="d8">23.73</data>
+  <data key="d9">0.908</data>
+  <data key="d10">81.9</data>
+  <data key="d11">20.8</data>
+  <data key="d12">11.6</data>
+  <data key="d13">35761</data>
+  <data key="d14">Very high</data>
+  <data key="d15">4</data>
+  <data key="d16">0.027734566071886655</data>
+  <data key="d17">0.23765432098765432</data>
+  <data key="d18">0.04772108653557732</data>
+  <data key="d19">Balkans &amp; Danube</data>
+  <data key="d20">A · Advanced</data>
+</node>
+<node id="HUN">
+  <data key="d0">Hungary</data>
+  <data key="d1">HUN</data>
+  <data key="d2">Eastern Europe</data>
+  <data key="d3">Europe</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">0</data>
+  <data key="d7">47.5</data>
+  <data key="d8">19.04</data>
+  <data key="d9">0.87</data>
+  <data key="d10">77.0</data>
+  <data key="d11">15.5</data>
+  <data key="d12">12.3</data>
+  <data key="d13">37236</data>
+  <data key="d14">Very high</data>
+  <data key="d15">7</data>
+  <data key="d16">0.09431734149927859</data>
+  <data key="d17">0.2730496453900709</data>
+  <data key="d18">0.14156954805420532</data>
+  <data key="d19">Balkans &amp; Danube</data>
+  <data key="d20">B · Upper-middle / transition</data>
+</node>
+<node id="IRL">
+  <data key="d0">Ireland</data>
+  <data key="d1">IRL</data>
+  <data key="d2">Northern Europe</data>
+  <data key="d3">Europe</data>
+  <data key="d4">0</data>
+  <data key="d5">1</data>
+  <data key="d6">0</data>
+  <data key="d7">53.35</data>
+  <data key="d8">-6.26</data>
+  <data key="d9">0.949</data>
+  <data key="d10">82.4</data>
+  <data key="d11">19.2</data>
+  <data key="d12">11.7</data>
+  <data key="d13">90885</data>
+  <data key="d14">Very high</data>
+  <data key="d15">1</data>
+  <data key="d16">0.0</data>
+  <data key="d17">0.15338645418326693</data>
+  <data key="d18">0.002017501894447891</data>
+  <data key="d19">Western Europe</data>
+  <data key="d20">A · Advanced</data>
+</node>
+<node id="ITA">
+  <data key="d0">Italy</data>
+  <data key="d1">ITA</data>
+  <data key="d2">Southern Europe</data>
+  <data key="d3">Europe</data>
+  <data key="d4">0</data>
+  <data key="d5">1</data>
+  <data key="d6">0</data>
+  <data key="d7">41.9</data>
+  <data key="d8">12.5</data>
+  <data key="d9">0.915</data>
+  <data key="d10">83.7</data>
+  <data key="d11">16.7</data>
+  <data key="d12">10.8</data>
+  <data key="d13">52389</data>
+  <data key="d14">Very high</data>
+  <data key="d15">4</data>
+  <data key="d16">0.01632490316700843</data>
+  <data key="d17">0.20052083333333334</data>
+  <data key="d18">0.05661024478210927</data>
+  <data key="d19">Western Europe</data>
+  <data key="d20">A · Advanced</data>
+</node>
+<node id="LVA">
+  <data key="d0">Latvia</data>
+  <data key="d1">LVA</data>
+  <data key="d2">Northern Europe</data>
+  <data key="d3">Europe</data>
+  <data key="d4">0</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7">56.95</data>
+  <data key="d8">24.11</data>
+  <data key="d9">0.889</data>
+  <data key="d10">76.2</data>
+  <data key="d11">16.5</data>
+  <data key="d12">13.4</data>
+  <data key="d13">37998</data>
+  <data key="d14">Very high</data>
+  <data key="d15">4</data>
+  <data key="d16">0.0003417634996582365</data>
+  <data key="d17">0.2619047619047619</data>
+  <data key="d18">0.1492858929877422</data>
+  <data key="d19">Baltic ring &amp; Russia</data>
+  <data key="d20">A · Advanced</data>
+</node>
+<node id="LTU">
+  <data key="d0">Lithuania</data>
+  <data key="d1">LTU</data>
+  <data key="d2">Northern Europe</data>
+  <data key="d3">Europe</data>
+  <data key="d4">0</data>
+  <data key="d5">1</data>
+  <data key="d6">1</data>
+  <data key="d7">54.69</data>
+  <data key="d8">25.28</data>
+  <data key="d9">0.895</data>
+  <data key="d10">76.0</data>
+  <data key="d11">16.5</data>
+  <data key="d12">13.6</data>
+  <data key="d13">41916</data>
+  <data key="d14">Very high</data>
+  <data key="d15">4</data>
+  <data key="d16">0.001664000160240762</data>
+  <data key="d17">0.27598566308243727</data>
+  <data key="d18">0.1710836857976273</data>
+  <data key="d19">Baltic ring &amp; Russia</data>
+  <data key="d20">A · Advanced</data>
+</node>
+<node id="LUX">
+  <data key="d0">Luxembourg</data>
+  <data key="d1">LUX</data>
+  <data key="d2">Western Europe</data>
+  <data key="d3">Europe</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">0</data>
+  <data key="d7">49.6</data>
+  <data key="d8">6.1</data>
+  <data key="d9">0.922</data>
+  <data key="d10">82.2</data>
+  <data key="d11">14.4</data>
+  <data key="d12">12.6</data>
+  <data key="d13">85461</data>
+  <data key="d14">Very high</data>
+  <data key="d15">3</data>
+  <data key="d16">0.0</data>
+  <data key="d17">0.21212121212121213</data>
+  <data key="d18">0.042607398147759226</data>
+  <data key="d19">Western Europe</data>
+  <data key="d20">A · Advanced</data>
+</node>
+<node id="MDA">
+  <data key="d0">Moldova</data>
+  <data key="d1">MDA</data>
+  <data key="d2">Eastern Europe</data>
+  <data key="d3">Europe</data>
+  <data key="d4">1</data>
+  <data key="d5">0</data>
+  <data key="d6">1</data>
+  <data key="d7">47.01</data>
+  <data key="d8">28.86</data>
+  <data key="d9">0.785</data>
+  <data key="d10">71.2</data>
+  <data key="d11">14.6</data>
+  <data key="d12">11.8</data>
+  <data key="d13">15867</data>
+  <data key="d14">High</data>
+  <data key="d15">2</data>
+  <data key="d16">0.0</data>
+  <data key="d17">0.24919093851132687</data>
+  <data key="d18">0.05641762656845734</data>
+  <data key="d19">Balkans &amp; Danube</data>
+  <data key="d20">B · Upper-middle / transition</data>
+</node>
+<node id="MNE">
+  <data key="d0">Montenegro</data>
+  <data key="d1">MNE</data>
+  <data key="d2">Southern Europe</data>
+  <data key="d3">Europe</data>
+  <data key="d4">0</data>
+  <data key="d5">0</data>
+  <data key="d6">0</data>
+  <data key="d7">42.7</data>
+  <data key="d8">19.3</data>
+  <data key="d9">0.862</data>
+  <data key="d10">77.1</data>
+  <data key="d11">15.5</data>
+  <data key="d12">12.8</data>
+  <data key="d13">28026</data>
+  <data key="d14">Very high</data>
+  <data key="d15">4</data>
+  <data key="d16">0.006783462986470506</data>
+  <data key="d17">0.20810810810810812</data>
+  <data key="d18">0.03488707884809472</data>
+  <data key="d19">Balkans &amp; Danube</data>
+  <data key="d20">B · Upper-middle / transition</data>
+</node>
+<node id="NLD">
+  <data key="d0">Netherlands</data>
+  <data key="d1">NLD</data>
+  <data key="d2">Western Europe</data>
+  <data key="d3">Europe</data>
+  <data key="d4">0</data>
+  <data key="d5">1</data>
+  <data key="d6">0</data>
+  <data key="d7">52.3</data>
+  <data key="d8">5.6</data>
+  <data key="d9">0.955</data>
+  <data key="d10">82.2</data>
+  <data key="d11">18.6</data>
+  <data key="d12">12.7</data>
+  <data key="d13">68344</data>
+  <data key="d14">Very high</data>
+  <data key="d15">2</data>
+  <data key="d16">0.0</data>
+  <data key="d17">0.2086720867208672</data>
+  <data key="d18">0.03139272180480552</data>
+  <data key="d19">Western Europe</data>
+  <data key="d20">A · Advanced</data>
+</node>
+<node id="MKD">
+  <data key="d0">North Macedonia</data>
+  <data key="d1">MKD</data>
+  <data key="d2">Southern Europe</data>
+  <data key="d3">Europe</data>
+  <data key="d4">1</data>
+  <data key="d5">0</data>
+  <data key="d6">0</data>
+  <data key="d7">41.6</data>
+  <data key="d8">21.7</data>
+  <data key="d9">0.815</data>
+  <data key="d10">77.4</data>
+  <data key="d11">14.8</data>
+  <data key="d12">10.2</data>
+  <data key="d13">22128</data>
+  <data key="d14">Very high</data>
+  <data key="d15">4</data>
+  <data key="d16">0.003788963751369766</data>
+  <data key="d17">0.21875</data>
+  <data key="d18">0.039286208250822845</data>
+  <data key="d19">Balkans &amp; Danube</data>
+  <data key="d20">B · Upper-middle / transition</data>
+</node>
+<node id="NOR">
+  <data key="d0">Norway</data>
+  <data key="d1">NOR</data>
+  <data key="d2">Northern Europe</data>
+  <data key="d3">Europe</data>
+  <data key="d4">0</data>
+  <data key="d5">0</data>
+  <data key="d6">0</data>
+  <data key="d7">59.91</data>
+  <data key="d8">10.75</data>
+  <data key="d9">0.97</data>
+  <data key="d10">83.3</data>
+  <data key="d11">18.8</data>
+  <data key="d12">13.1</data>
+  <data key="d13">112710</data>
+  <data key="d14">Very high</data>
+  <data key="d15">3</data>
+  <data key="d16">0.01485613384109623</data>
+  <data key="d17">0.2636986301369863</data>
+  <data key="d18">0.08945971603500397</data>
+  <data key="d19">Baltic ring &amp; Russia</data>
+  <data key="d20">A · Advanced</data>
+</node>
+<node id="POL">
+  <data key="d0">Poland</data>
+  <data key="d1">POL</data>
+  <data key="d2">Eastern Europe</data>
+  <data key="d3">Europe</data>
+  <data key="d4">0</data>
+  <data key="d5">1</data>
+  <data key="d6">0</data>
+  <data key="d7">52.23</data>
+  <data key="d8">21.01</data>
+  <data key="d9">0.906</data>
+  <data key="d10">78.6</data>
+  <data key="d11">16.7</data>
+  <data key="d12">13.2</data>
+  <data key="d13">42218</data>
+  <data key="d14">Very high</data>
+  <data key="d15">7</data>
+  <data key="d16">0.21564992621357604</data>
+  <data key="d17">0.3031496062992126</data>
+  <data key="d18">0.2403244569936385</data>
+  <data key="d19">Baltic ring &amp; Russia</data>
+  <data key="d20">A · Advanced</data>
+</node>
+<node id="PRT">
+  <data key="d0">Portugal</data>
+  <data key="d1">PRT</data>
+  <data key="d2">Southern Europe</data>
+  <data key="d3">Europe</data>
+  <data key="d4">0</data>
+  <data key="d5">1</data>
+  <data key="d6">0</data>
+  <data key="d7">38.72</data>
+  <data key="d8">-9.14</data>
+  <data key="d9">0.89</data>
+  <data key="d10">82.4</data>
+  <data key="d11">17.5</data>
+  <data key="d12">9.7</data>
+  <data key="d13">41064</data>
+  <data key="d14">Very high</data>
+  <data key="d15">1</data>
+  <data key="d16">0.0</data>
+  <data key="d17">0.15338645418326693</data>
+  <data key="d18">0.002017501894447891</data>
+  <data key="d19">Western Europe</data>
+  <data key="d20">A · Advanced</data>
+</node>
+<node id="ROU">
+  <data key="d0">Romania</data>
+  <data key="d1">ROU</data>
+  <data key="d2">Eastern Europe</data>
+  <data key="d3">Europe</data>
+  <data key="d4">0</data>
+  <data key="d5">1</data>
+  <data key="d6">0</data>
+  <data key="d7">44.43</data>
+  <data key="d8">26.1</data>
+  <data key="d9">0.845</data>
+  <data key="d10">75.9</data>
+  <data key="d11">14.1</data>
+  <data key="d12">11.6</data>
+  <data key="d13">39374</data>
+  <data key="d14">Very high</data>
+  <data key="d15">5</data>
+  <data key="d16">0.04326695458081234</data>
+  <data key="d17">0.275</data>
+  <data key="d18">0.1006498125818336</data>
+  <data key="d19">Balkans &amp; Danube</data>
+  <data key="d20">B · Upper-middle / transition</data>
+</node>
+<node id="RUS">
+  <data key="d0">Russia</data>
+  <data key="d1">RUS</data>
+  <data key="d2">Eastern Europe</data>
+  <data key="d3">Europe</data>
+  <data key="d4">0</data>
+  <data key="d5">0</data>
+  <data key="d6">1</data>
+  <data key="d7">55.76</data>
+  <data key="d8">37.62</data>
+  <data key="d9">0.832</data>
+  <data key="d10">73.2</data>
+  <data key="d11">13.2</data>
+  <data key="d12">12.4</data>
+  <data key="d13">39222</data>
+  <data key="d14">Very high</data>
+  <data key="d15">13</data>
+  <data key="d16">0.4626427041328127</data>
+  <data key="d17">0.34841628959276016</data>
+  <data key="d18">0.38709376133441936</data>
+  <data key="d19">Baltic ring &amp; Russia</data>
+  <data key="d20">B · Upper-middle / transition</data>
+</node>
+<node id="SRB">
+  <data key="d0">Serbia</data>
+  <data key="d1">SRB</data>
+  <data key="d2">Southern Europe</data>
+  <data key="d3">Europe</data>
+  <data key="d4">1</data>
+  <data key="d5">0</data>
+  <data key="d6">0</data>
+  <data key="d7">44.0</data>
+  <data key="d8">20.9</data>
+  <data key="d9">0.833</data>
+  <data key="d10">76.8</data>
+  <data key="d11">15.0</data>
+  <data key="d12">11.6</data>
+  <data key="d13">23115</data>
+  <data key="d14">Very high</data>
+  <data key="d15">7</data>
+  <data key="d16">0.06697025868323679</data>
+  <data key="d17">0.25163398692810457</data>
+  <data key="d18">0.08423424523677467</data>
+  <data key="d19">Balkans &amp; Danube</data>
+  <data key="d20">B · Upper-middle / transition</data>
+</node>
+<node id="SVK">
+  <data key="d0">Slovakia</data>
+  <data key="d1">SVK</data>
+  <data key="d2">Eastern Europe</data>
+  <data key="d3">Europe</data>
+  <data key="d4">1</data>
+  <data key="d5">1</data>
+  <data key="d6">0</data>
+  <data key="d7">48.7</data>
+  <data key="d8">19.6</data>
+  <data key="d9">0.88</data>
+  <data key="d10">78.3</data>
+  <data key="d11">14.9</data>
+  <data key="d12">13.1</data>
+  <data key="d13">36793</data>
+  <data key="d14">Very high</data>
+  <data key="d15">5</data>
+  <data key="d16">0.011514670110022126</data>
+  <data key="d17">0.25412541254125415</data>
+  <data key="d18">0.1471934717230608</data>
+  <data key="d19">Balkans &amp; Danube</data>
+  <data key="d20">A · Advanced</data>
+</node>
+<node id="SVN">
+  <data key="d0">Slovenia</data>
+  <data key="d1">SVN</data>
+  <data key="d2">Southern Europe</data>
+  <data key="d3">Europe</data>
+  <data key="d4">0</data>
+  <data key="d5">1</data>
+  <data key="d6">0</data>
+  <data key="d7">46.1</data>
+  <data key="d8">14.6</data>
+  <data key="d9">0.931</data>
+  <data key="d10">81.6</data>
+  <data key="d11">17.5</data>
+  <data key="d12">13.0</data>
+  <data key="d13">46361</data>
+  <data key="d14">Very high</data>
+  <data key="d15">4</data>
+  <data key="d16">0.021766207514669574</data>
+  <data key="d17">0.23123123123123124</data>
+  <data key="d18">0.06756758084797025</data>
+  <data key="d19">Western Europe</data>
+  <data key="d20">A · Advanced</data>
+</node>
+<node id="ESP">
+  <data key="d0">Spain</data>
+  <data key="d1">ESP</data>
+  <data key="d2">Southern Europe</data>
+  <data key="d3">Europe</data>
+  <data key="d4">0</data>
+  <data key="d5">1</data>
+  <data key="d6">0</data>
+  <data key="d7">40.42</data>
+  <data key="d8">-3.7</data>
+  <data key="d9">0.918</data>
+  <data key="d10">83.7</data>
+  <data key="d11">17.8</data>
+  <data key="d12">10.8</data>
+  <data key="d13">46008</data>
+  <data key="d14">Very high</data>
+  <data key="d15">2</data>
+  <data key="d16">0.025974025974025976</data>
+  <data key="d17">0.1807511737089202</data>
+  <data key="d18">0.011566580979401062</data>
+  <data key="d19">Western Europe</data>
+  <data key="d20">A · Advanced</data>
+</node>
+<node id="SWE">
+  <data key="d0">Sweden</data>
+  <data key="d1">SWE</data>
+  <data key="d2">Northern Europe</data>
+  <data key="d3">Europe</data>
+  <data key="d4">0</data>
+  <data key="d5">1</data>
+  <data key="d6">0</data>
+  <data key="d7">59.33</data>
+  <data key="d8">18.07</data>
+  <data key="d9">0.959</data>
+  <data key="d10">83.3</data>
+  <data key="d11">19.0</data>
+  <data key="d12">12.7</data>
+  <data key="d13">66102</data>
+  <data key="d14">Very high</data>
+  <data key="d15">3</data>
+  <data key="d16">0.014472130740073344</data>
+  <data key="d17">0.22713864306784662</data>
+  <data key="d18">0.03635014980830169</data>
+  <data key="d19">Baltic ring &amp; Russia</data>
+  <data key="d20">A · Advanced</data>
+</node>
+<node id="CHE">
+  <data key="d0">Switzerland</data>
+  <data key="d1">CHE</data>
+  <data key="d2">Western Europe</data>
+  <data key="d3">Europe</data>
+  <data key="d4">1</data>
+  <data key="d5">0</data>
+  <data key="d6">0</data>
+  <data key="d7">46.95</data>
+  <data key="d8">7.45</data>
+  <data key="d9">0.97</data>
+  <data key="d10">84.0</data>
+  <data key="d11">16.7</data>
+  <data key="d12">13.9</data>
+  <data key="d13">81949</data>
+  <data key="d14">Very high</data>
+  <data key="d15">4</data>
+  <data key="d16">0.004982452043285946</data>
+  <data key="d17">0.22</data>
+  <data key="d18">0.06628509727317297</data>
+  <data key="d19">Western Europe</data>
+  <data key="d20">A · Advanced</data>
+</node>
+<node id="UKR">
+  <data key="d0">Ukraine</data>
+  <data key="d1">UKR</data>
+  <data key="d2">Eastern Europe</data>
+  <data key="d3">Europe</data>
+  <data key="d4">0</data>
+  <data key="d5">0</data>
+  <data key="d6">1</data>
+  <data key="d7">50.45</data>
+  <data key="d8">30.52</data>
+  <data key="d9">0.779</data>
+  <data key="d10">73.4</data>
+  <data key="d11">13.3</data>
+  <data key="d12">11.1</data>
+  <data key="d13">16933</data>
+  <data key="d14">High</data>
+  <data key="d15">7</data>
+  <data key="d16">0.11427643686236072</data>
+  <data key="d17">0.30196078431372547</data>
+  <data key="d18">0.22280787235843993</data>
+  <data key="d19">Balkans &amp; Danube</data>
+  <data key="d20">B · Upper-middle / transition</data>
+</node>
+<node id="GBR">
+  <data key="d0">United Kingdom</data>
+  <data key="d1">GBR</data>
+  <data key="d2">Northern Europe</data>
+  <data key="d3">Europe</data>
+  <data key="d4">0</data>
+  <data key="d5">0</data>
+  <data key="d6">0</data>
+  <data key="d7">51.51</data>
+  <data key="d8">-0.13</data>
+  <data key="d9">0.946</data>
+  <data key="d10">81.3</data>
+  <data key="d11">17.8</data>
+  <data key="d12">13.5</data>
+  <data key="d13">54372</data>
+  <data key="d14">Very high</data>
+  <data key="d15">2</data>
+  <data key="d16">0.025974025974025976</data>
+  <data key="d17">0.1807511737089202</data>
+  <data key="d18">0.011566580979401062</data>
+  <data key="d19">Western Europe</data>
+  <data key="d20">A · Advanced</data>
+</node>
+<node id="TUR">
+  <data key="d0">Türkiye</data>
+  <data key="d1">TUR</data>
+  <data key="d2">Western Asia</data>
+  <data key="d3">Asia</data>
+  <data key="d4">0</data>
+  <data key="d5">0</data>
+  <data key="d6">0</data>
+  <data key="d7">39.0</data>
+  <data key="d8">35.0</data>
+  <data key="d9">0.853</data>
+  <data key="d10">77.2</data>
+  <data key="d11">19.8</data>
+  <data key="d12">9.0</data>
+  <data key="d13">34507</data>
+  <data key="d14">Very high</data>
+  <data key="d15">8</data>
+  <data key="d16">0.22413078719000443</data>
+  <data key="d17">0.2883895131086142</data>
+  <data key="d18">0.1410315137137141</data>
+  <data key="d19">Anatolia, Caucasus &amp; Iran</data>
+  <data key="d20">A · Advanced</data>
+</node>
+<node id="GEO">
+  <data key="d0">Georgia</data>
+  <data key="d1">GEO</data>
+  <data key="d2">Western Asia</data>
+  <data key="d3">Asia</data>
+  <data key="d4">0</data>
+  <data key="d5">0</data>
+  <data key="d6">1</data>
+  <data key="d7">41.72</data>
+  <data key="d8">44.79</data>
+  <data key="d9">0.844</data>
+  <data key="d10">74.5</data>
+  <data key="d11">16.8</data>
+  <data key="d12">12.7</data>
+  <data key="d13">20753</data>
+  <data key="d14">Very high</data>
+  <data key="d15">4</data>
+  <data key="d16">0.060930933904323234</data>
+  <data key="d17">0.3031496062992126</data>
+  <data key="d18">0.13885026205666873</data>
+  <data key="d19">Anatolia, Caucasus &amp; Iran</data>
+  <data key="d20">B · Upper-middle / transition</data>
+</node>
+<node id="ARM">
+  <data key="d0">Armenia</data>
+  <data key="d1">ARM</data>
+  <data key="d2">Western Asia</data>
+  <data key="d3">Asia</data>
+  <data key="d4">1</data>
+  <data key="d5">0</data>
+  <data key="d6">1</data>
+  <data key="d7">40.18</data>
+  <data key="d8">44.51</data>
+  <data key="d9">0.811</data>
+  <data key="d10">75.7</data>
+  <data key="d11">14.4</data>
+  <data key="d12">11.3</data>
+  <data key="d13">20221</data>
+  <data key="d14">Very high</data>
+  <data key="d15">4</data>
+  <data key="d16">0.0003702437912964229</data>
+  <data key="d17">0.2619047619047619</data>
+  <data key="d18">0.10523244726402738</data>
+  <data key="d19">Anatolia, Caucasus &amp; Iran</data>
+  <data key="d20">B · Upper-middle / transition</data>
+</node>
+<node id="AZE">
+  <data key="d0">Azerbaijan</data>
+  <data key="d1">AZE</data>
+  <data key="d2">Western Asia</data>
+  <data key="d3">Asia</data>
+  <data key="d4">1</data>
+  <data key="d5">0</data>
+  <data key="d6">1</data>
+  <data key="d7">40.41</data>
+  <data key="d8">49.87</data>
+  <data key="d9">0.789</data>
+  <data key="d10">74.4</data>
+  <data key="d11">12.9</data>
+  <data key="d12">11.1</data>
+  <data key="d13">20668</data>
+  <data key="d14">High</data>
+  <data key="d15">5</data>
+  <data key="d16">0.09336249248413299</data>
+  <data key="d17">0.308</data>
+  <data key="d18">0.16272148047103033</data>
+  <data key="d19">Anatolia, Caucasus &amp; Iran</data>
+  <data key="d20">B · Upper-middle / transition</data>
+</node>
+<node id="IRN">
+  <data key="d0">Iran</data>
+  <data key="d1">IRN</data>
+  <data key="d2">Southern Asia</data>
+  <data key="d3">Asia</data>
+  <data key="d4">0</data>
+  <data key="d5">0</data>
+  <data key="d6">0</data>
+  <data key="d7">32.5</data>
+  <data key="d8">54.0</data>
+  <data key="d9">0.799</data>
+  <data key="d10">77.7</data>
+  <data key="d11">14.0</data>
+  <data key="d12">10.8</data>
+  <data key="d13">16096</data>
+  <data key="d14">High</data>
+  <data key="d15">7</data>
+  <data key="d16">0.15909722641718665</data>
+  <data key="d17">0.29277566539923955</data>
+  <data key="d18">0.16073475467637593</data>
+  <data key="d19">Anatolia, Caucasus &amp; Iran</data>
+  <data key="d20">B · Upper-middle / transition</data>
+</node>
+<node id="IRQ">
+  <data key="d0">Iraq</data>
+  <data key="d1">IRQ</data>
+  <data key="d2">Western Asia</data>
+  <data key="d3">Asia</data>
+  <data key="d4">0</data>
+  <data key="d5">0</data>
+  <data key="d6">0</data>
+  <data key="d7">33.31</data>
+  <data key="d8">44.36</data>
+  <data key="d9">0.695</data>
+  <data key="d10">72.3</data>
+  <data key="d11">12.4</data>
+  <data key="d12">6.8</data>
+  <data key="d13">12654</data>
+  <data key="d14">Medium</data>
+  <data key="d15">6</data>
+  <data key="d16">0.1987578380855787</data>
+  <data key="d17">0.25752508361204013</data>
+  <data key="d18">0.07369669155734547</data>
+  <data key="d19">Arabia &amp; Levant</data>
+  <data key="d20">C · Developing</data>
+</node>
+<node id="SYR">
+  <data key="d0">Syria</data>
+  <data key="d1">SYR</data>
+  <data key="d2">Western Asia</data>
+  <data key="d3">Asia</data>
+  <data key="d4">0</data>
+  <data key="d5">0</data>
+  <data key="d6">0</data>
+  <data key="d7">35.0</data>
+  <data key="d8">38.4</data>
+  <data key="d9">0.564</data>
+  <data key="d10">72.1</data>
+  <data key="d11">7.4</data>
+  <data key="d12">5.9</data>
+  <data key="d13">3918</data>
+  <data key="d14">Medium</data>
+  <data key="d15">5</data>
+  <data key="d16">0.05961157547504261</data>
+  <data key="d17">0.23547400611620795</data>
+  <data key="d18">0.04760803248159361</data>
+  <data key="d19">Arabia &amp; Levant</data>
+  <data key="d20">C · Developing</data>
+</node>
+<node id="LBN">
+  <data key="d0">Lebanon</data>
+  <data key="d1">LBN</data>
+  <data key="d2">Western Asia</data>
+  <data key="d3">Asia</data>
+  <data key="d4">0</data>
+  <data key="d5">0</data>
+  <data key="d6">0</data>
+  <data key="d7">33.9</data>
+  <data key="d8">35.8</data>
+  <data key="d9">0.752</data>
+  <data key="d10">77.8</data>
+  <data key="d11">11.7</data>
+  <data key="d12">10.4</data>
+  <data key="d13">11299</data>
+  <data key="d14">High</data>
+  <data key="d15">2</data>
+  <data key="d16">0.0</data>
+  <data key="d17">0.19201995012468828</data>
+  <data key="d18">0.011257306780731441</data>
+  <data key="d19">Arabia &amp; Levant</data>
+  <data key="d20">B · Upper-middle / transition</data>
+</node>
+<node id="ISR">
+  <data key="d0">Israel</data>
+  <data key="d1">ISR</data>
+  <data key="d2">Western Asia</data>
+  <data key="d3">Asia</data>
+  <data key="d4">0</data>
+  <data key="d5">0</data>
+  <data key="d6">0</data>
+  <data key="d7">31.0</data>
+  <data key="d8">34.8</data>
+  <data key="d9">0.919</data>
+  <data key="d10">82.4</data>
+  <data key="d11">14.9</data>
+  <data key="d12">13.5</data>
+  <data key="d13">48050</data>
+  <data key="d14">Very high</data>
+  <data key="d15">4</data>
+  <data key="d16">0.005701258169385011</data>
+  <data key="d17">0.19592875318066158</data>
+  <data key="d18">0.016934630286452253</data>
+  <data key="d19">Arabia &amp; Levant</data>
+  <data key="d20">A · Advanced</data>
+</node>
+<node id="PSE">
+  <data key="d0">Palestine</data>
+  <data key="d1">PSE</data>
+  <data key="d2">Western Asia</data>
+  <data key="d3">Asia</data>
+  <data key="d4">0</data>
+  <data key="d5">0</data>
+  <data key="d6">0</data>
+  <data key="d7">31.95</data>
+  <data key="d8">35.3</data>
+  <data key="d9">0.674</data>
+  <data key="d10">65.2</data>
+  <data key="d11">13.0</data>
+  <data key="d12">10.1</data>
+  <data key="d13">6547</data>
+  <data key="d14">Medium</data>
+  <data key="d15">2</data>
+  <data key="d16">0.0</data>
+  <data key="d17">0.17620137299771166</data>
+  <data key="d18">0.008192338542307432</data>
+  <data key="d19">Arabia &amp; Levant</data>
+  <data key="d20">C · Developing</data>
+</node>
+<node id="JOR">
+  <data key="d0">Jordan</data>
+  <data key="d1">JOR</data>
+  <data key="d2">Western Asia</data>
+  <data key="d3">Asia</data>
+  <data key="d4">0</data>
+  <data key="d5">0</data>
+  <data key="d6">0</data>
+  <data key="d7">30.9</data>
+  <data key="d8">36.8</data>
+  <data key="d9">0.754</data>
+  <data key="d10">77.8</data>
+  <data key="d11">13.1</data>
+  <data key="d12">10.2</data>
+  <data key="d13">9222</data>
+  <data key="d14">High</data>
+  <data key="d15">5</data>
+  <data key="d16">0.027861007651757697</data>
+  <data key="d17">0.21212121212121213</data>
+  <data key="d18">0.030035432092894988</data>
+  <data key="d19">Arabia &amp; Levant</data>
+  <data key="d20">B · Upper-middle / transition</data>
+</node>
+<node id="SAU">
+  <data key="d0">Saudi Arabia</data>
+  <data key="d1">SAU</data>
+  <data key="d2">Western Asia</data>
+  <data key="d3">Asia</data>
+  <data key="d4">0</data>
+  <data key="d5">0</data>
+  <data key="d6">0</data>
+  <data key="d7">24.0</data>
+  <data key="d8">45.0</data>
+  <data key="d9">0.9</data>
+  <data key="d10">78.7</data>
+  <data key="d11">16.9</data>
+  <data key="d12">11.6</data>
+  <data key="d13">50299</data>
+  <data key="d14">Very high</data>
+  <data key="d15">8</data>
+  <data key="d16">0.12605377079061292</data>
+  <data key="d17">0.21329639889196675</data>
+  <data key="d18">0.025773677171980522</data>
+  <data key="d19">Arabia &amp; Levant</data>
+  <data key="d20">A · Advanced</data>
+</node>
+<node id="KWT">
+  <data key="d0">Kuwait</data>
+  <data key="d1">KWT</data>
+  <data key="d2">Western Asia</data>
+  <data key="d3">Asia</data>
+  <data key="d4">0</data>
+  <data key="d5">0</data>
+  <data key="d6">0</data>
+  <data key="d7">29.3</data>
+  <data key="d8">47.6</data>
+  <data key="d9">0.852</data>
+  <data key="d10">80.4</data>
+  <data key="d11">15.9</data>
+  <data key="d12">7.6</data>
+  <data key="d13">56612</data>
+  <data key="d14">Very high</data>
+  <data key="d15">2</data>
+  <data key="d16">0.0</data>
+  <data key="d17">0.2086720867208672</data>
+  <data key="d18">0.01734925072940427</data>
+  <data key="d19">Arabia &amp; Levant</data>
+  <data key="d20">A · Advanced</data>
+</node>
+<node id="QAT">
+  <data key="d0">Qatar</data>
+  <data key="d1">QAT</data>
+  <data key="d2">Western Asia</data>
+  <data key="d3">Asia</data>
+  <data key="d4">0</data>
+  <data key="d5">0</data>
+  <data key="d6">0</data>
+  <data key="d7">25.3</data>
+  <data key="d8">51.2</data>
+  <data key="d9">0.886</data>
+  <data key="d10">82.4</data>
+  <data key="d11">13.1</data>
+  <data key="d12">10.8</data>
+  <data key="d13">105353</data>
+  <data key="d14">Very high</data>
+  <data key="d15">1</data>
+  <data key="d16">0.0</data>
+  <data key="d17">0.17620137299771166</data>
+  <data key="d18">0.004495340386103736</data>
+  <data key="d19">Arabia &amp; Levant</data>
+  <data key="d20">A · Advanced</data>
+</node>
+<node id="ARE">
+  <data key="d0">United Arab Emirates</data>
+  <data key="d1">ARE</data>
+  <data key="d2">Western Asia</data>
+  <data key="d3">Asia</data>
+  <data key="d4">0</data>
+  <data key="d5">0</data>
+  <data key="d6">0</data>
+  <data key="d7">23.9</data>
+  <data key="d8">54.3</data>
+  <data key="d9">0.94</data>
+  <data key="d10">82.9</data>
+  <data key="d11">15.6</data>
+  <data key="d12">13.0</data>
+  <data key="d13">71142</data>
+  <data key="d14">Very high</data>
+  <data key="d15">2</data>
+  <data key="d16">0.0</data>
+  <data key="d17">0.17660550458715596</data>
+  <data key="d18">0.005621413777263842</data>
+  <data key="d19">Arabia &amp; Levant</data>
+  <data key="d20">A · Advanced</data>
+</node>
+<node id="OMN">
+  <data key="d0">Oman</data>
+  <data key="d1">OMN</data>
+  <data key="d2">Western Asia</data>
+  <data key="d3">Asia</data>
+  <data key="d4">0</data>
+  <data key="d5">0</data>
+  <data key="d6">0</data>
+  <data key="d7">21.0</data>
+  <data key="d8">57.0</data>
+  <data key="d9">0.858</data>
+  <data key="d10">80.0</data>
+  <data key="d11">13.4</data>
+  <data key="d12">11.9</data>
+  <data key="d13">36096</data>
+  <data key="d14">Very high</data>
+  <data key="d15">3</data>
+  <data key="d16">0.00017088174982911826</data>
+  <data key="d17">0.17701149425287357</data>
+  <data key="d18">0.006456265257255493</data>
+  <data key="d19">Arabia &amp; Levant</data>
+  <data key="d20">B · Upper-middle / transition</data>
+</node>
+<node id="YEM">
+  <data key="d0">Yemen</data>
+  <data key="d1">YEM</data>
+  <data key="d2">Western Asia</data>
+  <data key="d3">Asia</data>
+  <data key="d4">0</data>
+  <data key="d5">0</data>
+  <data key="d6">0</data>
+  <data key="d7">15.37</data>
+  <data key="d8">44.19</data>
+  <data key="d9">0.47</data>
+  <data key="d10">69.3</data>
+  <data key="d11">7.5</data>
+  <data key="d12">5.5</data>
+  <data key="d13">1018</data>
+  <data key="d14">Low</data>
+  <data key="d15">2</data>
+  <data key="d16">0.0</data>
+  <data key="d17">0.17660550458715596</data>
+  <data key="d18">0.005621413777263842</data>
+  <data key="d19">Arabia &amp; Levant</data>
+  <data key="d20">C · Developing</data>
+</node>
+<node id="BHR">
+  <data key="d0">Bahrain</data>
+  <data key="d1">BHR</data>
+  <data key="d2">Western Asia</data>
+  <data key="d3">Asia</data>
+  <data key="d4">0</data>
+  <data key="d5">0</data>
+  <data key="d6">0</data>
+  <data key="d7">26.0</data>
+  <data key="d8">50.55</data>
+  <data key="d9">0.899</data>
+  <data key="d10">81.3</data>
+  <data key="d11">15.9</data>
+  <data key="d12">11.1</data>
+  <data key="d13">52819</data>
+  <data key="d14">Very high</data>
+  <data key="d15">1</data>
+  <data key="d16">0.0</data>
+  <data key="d17">0.17620137299771166</data>
+  <data key="d18">0.004495340386103736</data>
+  <data key="d19">Arabia &amp; Levant</data>
+  <data key="d20">A · Advanced</data>
+</node>
+<node id="KAZ">
+  <data key="d0">Kazakhstan</data>
+  <data key="d1">KAZ</data>
+  <data key="d2">Central Asia</data>
+  <data key="d3">Asia</data>
+  <data key="d4">1</data>
+  <data key="d5">0</data>
+  <data key="d6">1</data>
+  <data key="d7">48.0</data>
+  <data key="d8">67.0</data>
+  <data key="d9">0.837</data>
+  <data key="d10">74.4</data>
+  <data key="d11">14.0</data>
+  <data key="d12">12.5</data>
+  <data key="d13">30989</data>
+  <data key="d14">Very high</data>
+  <data key="d15">5</data>
+  <data key="d16">0.0329371907806631</data>
+  <data key="d17">0.29389312977099236</data>
+  <data key="d18">0.19443505863284222</data>
+  <data key="d19">Continental Asia (China-centred)</data>
+  <data key="d20">B · Upper-middle / transition</data>
+</node>
+<node id="UZB">
+  <data key="d0">Uzbekistan</data>
+  <data key="d1">UZB</data>
+  <data key="d2">Central Asia</data>
+  <data key="d3">Asia</data>
+  <data key="d4">1</data>
+  <data key="d5">0</data>
+  <data key="d6">1</data>
+  <data key="d7">41.3</data>
+  <data key="d8">69.24</data>
+  <data key="d9">0.74</data>
+  <data key="d10">72.4</data>
+  <data key="d11">12.5</data>
+  <data key="d12">11.9</data>
+  <data key="d13">8826</data>
+  <data key="d14">High</data>
+  <data key="d15">5</data>
+  <data key="d16">0.002583700191355694</data>
+  <data key="d17">0.24758842443729903</data>
+  <data key="d18">0.13404087523537542</data>
+  <data key="d19">Continental Asia (China-centred)</data>
+  <data key="d20">B · Upper-middle / transition</data>
+</node>
+<node id="TKM">
+  <data key="d0">Turkmenistan</data>
+  <data key="d1">TKM</data>
+  <data key="d2">Central Asia</data>
+  <data key="d3">Asia</data>
+  <data key="d4">1</data>
+  <data key="d5">0</data>
+  <data key="d6">1</data>
+  <data key="d7">37.96</data>
+  <data key="d8">58.33</data>
+  <data key="d9">0.764</data>
+  <data key="d10">70.1</data>
+  <data key="d11">13.2</data>
+  <data key="d12">11.2</data>
+  <data key="d13">17716</data>
+  <data key="d14">High</data>
+  <data key="d15">4</data>
+  <data key="d16">0.010720383891949167</data>
+  <data key="d17">0.2664359861591695</data>
+  <data key="d18">0.11662835124742472</data>
+  <data key="d19">Continental Asia (China-centred)</data>
+  <data key="d20">B · Upper-middle / transition</data>
+</node>
+<node id="KGZ">
+  <data key="d0">Kyrgyzstan</data>
+  <data key="d1">KGZ</data>
+  <data key="d2">Central Asia</data>
+  <data key="d3">Asia</data>
+  <data key="d4">1</data>
+  <data key="d5">0</data>
+  <data key="d6">1</data>
+  <data key="d7">42.87</data>
+  <data key="d8">74.59</data>
+  <data key="d9">0.72</data>
+  <data key="d10">71.7</data>
+  <data key="d11">12.7</data>
+  <data key="d12">12.1</data>
+  <data key="d13">6078</data>
+  <data key="d14">High</data>
+  <data key="d15">4</data>
+  <data key="d16">0.0014373053846738059</data>
+  <data key="d17">0.24290220820189273</data>
+  <data key="d18">0.14010202863903115</data>
+  <data key="d19">Continental Asia (China-centred)</data>
+  <data key="d20">B · Upper-middle / transition</data>
+</node>
+<node id="TJK">
+  <data key="d0">Tajikistan</data>
+  <data key="d1">TJK</data>
+  <data key="d2">Central Asia</data>
+  <data key="d3">Asia</data>
+  <data key="d4">1</data>
+  <data key="d5">0</data>
+  <data key="d6">1</data>
+  <data key="d7">38.56</data>
+  <data key="d8">68.79</data>
+  <data key="d9">0.691</data>
+  <data key="d10">71.8</data>
+  <data key="d11">10.8</data>
+  <data key="d12">11.3</data>
+  <data key="d13">5747</data>
+  <data key="d14">Medium</data>
+  <data key="d15">4</data>
+  <data key="d16">0.002387391980693416</data>
+  <data key="d17">0.25925925925925924</data>
+  <data key="d18">0.1378792123685817</data>
+  <data key="d19">Continental Asia (China-centred)</data>
+  <data key="d20">B · Upper-middle / transition</data>
+</node>
+<node id="AFG">
+  <data key="d0">Afghanistan</data>
+  <data key="d1">AFG</data>
+  <data key="d2">Southern Asia</data>
+  <data key="d3">Asia</data>
+  <data key="d4">1</data>
+  <data key="d5">0</data>
+  <data key="d6">0</data>
+  <data key="d7">34.53</data>
+  <data key="d8">69.17</data>
+  <data key="d9">0.496</data>
+  <data key="d10">66.0</data>
+  <data key="d11">10.8</data>
+  <data key="d12">2.5</data>
+  <data key="d13">1972</data>
+  <data key="d14">Low</data>
+  <data key="d15">6</data>
+  <data key="d16">0.04959583722309919</data>
+  <data key="d17">0.28308823529411764</data>
+  <data key="d18">0.179468713621155</data>
+  <data key="d19">Continental Asia (China-centred)</data>
+  <data key="d20">C · Developing</data>
+</node>
+<node id="PAK">
+  <data key="d0">Pakistan</data>
+  <data key="d1">PAK</data>
+  <data key="d2">Southern Asia</data>
+  <data key="d3">Asia</data>
+  <data key="d4">0</data>
+  <data key="d5">0</data>
+  <data key="d6">0</data>
+  <data key="d7">33.68</data>
+  <data key="d8">73.05</data>
+  <data key="d9">0.544</data>
+  <data key="d10">67.6</data>
+  <data key="d11">7.9</data>
+  <data key="d12">4.3</data>
+  <data key="d13">5501</data>
+  <data key="d14">Low</data>
+  <data key="d15">4</data>
+  <data key="d16">0.0591692626624454</data>
+  <data key="d17">0.28205128205128205</data>
+  <data key="d18">0.14277853714607394</data>
+  <data key="d19">Continental Asia (China-centred)</data>
+  <data key="d20">C · Developing</data>
+</node>
+<node id="IND">
+  <data key="d0">India</data>
+  <data key="d1">IND</data>
+  <data key="d2">Southern Asia</data>
+  <data key="d3">Asia</data>
+  <data key="d4">0</data>
+  <data key="d5">0</data>
+  <data key="d6">0</data>
+  <data key="d7">22.0</data>
+  <data key="d8">79.0</data>
+  <data key="d9">0.685</data>
+  <data key="d10">72.0</data>
+  <data key="d11">13.0</data>
+  <data key="d12">6.9</data>
+  <data key="d13">9047</data>
+  <data key="d14">Medium</data>
+  <data key="d15">6</data>
+  <data key="d16">0.03107956701554933</data>
+  <data key="d17">0.2655172413793103</data>
+  <data key="d18">0.14149775233542392</data>
+  <data key="d19">Continental Asia (China-centred)</data>
+  <data key="d20">C · Developing</data>
+</node>
+<node id="NPL">
+  <data key="d0">Nepal</data>
+  <data key="d1">NPL</data>
+  <data key="d2">Southern Asia</data>
+  <data key="d3">Asia</data>
+  <data key="d4">1</data>
+  <data key="d5">0</data>
+  <data key="d6">0</data>
+  <data key="d7">27.72</data>
+  <data key="d8">85.32</data>
+  <data key="d9">0.622</data>
+  <data key="d10">70.4</data>
+  <data key="d11">13.8</data>
+  <data key="d12">4.5</data>
+  <data key="d13">4726</data>
+  <data key="d14">Medium</data>
+  <data key="d15">2</data>
+  <data key="d16">0.0</data>
+  <data key="d17">0.240625</data>
+  <data key="d18">0.08344166569342176</data>
+  <data key="d19">Continental Asia (China-centred)</data>
+  <data key="d20">C · Developing</data>
+</node>
+<node id="BTN">
+  <data key="d0">Bhutan</data>
+  <data key="d1">BTN</data>
+  <data key="d2">Southern Asia</data>
+  <data key="d3">Asia</data>
+  <data key="d4">1</data>
+  <data key="d5">0</data>
+  <data key="d6">0</data>
+  <data key="d7">27.47</data>
+  <data key="d8">89.64</data>
+  <data key="d9">0.698</data>
+  <data key="d10">73.0</data>
+  <data key="d11">13.2</data>
+  <data key="d12">5.8</data>
+  <data key="d13">13843</data>
+  <data key="d14">Medium</data>
+  <data key="d15">2</data>
+  <data key="d16">0.0</data>
+  <data key="d17">0.240625</data>
+  <data key="d18">0.08344166569342176</data>
+  <data key="d19">Continental Asia (China-centred)</data>
+  <data key="d20">C · Developing</data>
+</node>
+<node id="BGD">
+  <data key="d0">Bangladesh</data>
+  <data key="d1">BGD</data>
+  <data key="d2">Southern Asia</data>
+  <data key="d3">Asia</data>
+  <data key="d4">0</data>
+  <data key="d5">0</data>
+  <data key="d6">0</data>
+  <data key="d7">23.81</data>
+  <data key="d8">90.41</data>
+  <data key="d9">0.685</data>
+  <data key="d10">74.7</data>
+  <data key="d11">12.3</data>
+  <data key="d12">6.8</data>
+  <data key="d13">8498</data>
+  <data key="d14">Medium</data>
+  <data key="d15">2</data>
+  <data key="d16">0.0</data>
+  <data key="d17">0.21568627450980393</data>
+  <data key="d18">0.045473712859795186</data>
+  <data key="d19">Continental Asia (China-centred)</data>
+  <data key="d20">C · Developing</data>
+</node>
+<node id="CHN">
+  <data key="d0">China</data>
+  <data key="d1">CHN</data>
+  <data key="d2">Eastern Asia</data>
+  <data key="d3">Asia</data>
+  <data key="d4">0</data>
+  <data key="d5">0</data>
+  <data key="d6">0</data>
+  <data key="d7">35.0</data>
+  <data key="d8">103.0</data>
+  <data key="d9">0.797</data>
+  <data key="d10">78.0</data>
+  <data key="d11">15.5</data>
+  <data key="d12">8.0</data>
+  <data key="d13">22029</data>
+  <data key="d14">High</data>
+  <data key="d15">13</data>
+  <data key="d16">0.3230020001982804</data>
+  <data key="d17">0.3130081300813008</data>
+  <data key="d18">0.3369087786398185</data>
+  <data key="d19">Continental Asia (China-centred)</data>
+  <data key="d20">B · Upper-middle / transition</data>
+</node>
+<node id="MNG">
+  <data key="d0">Mongolia</data>
+  <data key="d1">MNG</data>
+  <data key="d2">Eastern Asia</data>
+  <data key="d3">Asia</data>
+  <data key="d4">1</data>
+  <data key="d5">0</data>
+  <data key="d6">0</data>
+  <data key="d7">47.0</data>
+  <data key="d8">103.0</data>
+  <data key="d9">0.747</data>
+  <data key="d10">71.7</data>
+  <data key="d11">13.6</data>
+  <data key="d12">9.4</data>
+  <data key="d13">14787</data>
+  <data key="d14">High</data>
+  <data key="d15">2</data>
+  <data key="d16">0.0</data>
+  <data key="d17">0.27697841726618705</data>
+  <data key="d18">0.12627844164194243</data>
+  <data key="d19">Baltic ring &amp; Russia</data>
+  <data key="d20">B · Upper-middle / transition</data>
+</node>
+<node id="MMR">
+  <data key="d0">Myanmar</data>
+  <data key="d1">MMR</data>
+  <data key="d2">South-eastern Asia</data>
+  <data key="d3">Asia</data>
+  <data key="d4">0</data>
+  <data key="d5">0</data>
+  <data key="d6">0</data>
+  <data key="d7">19.76</data>
+  <data key="d8">96.08</data>
+  <data key="d9">0.609</data>
+  <data key="d10">66.9</data>
+  <data key="d11">11.5</data>
+  <data key="d12">6.4</data>
+  <data key="d13">4919</data>
+  <data key="d14">Medium</data>
+  <data key="d15">5</data>
+  <data key="d16">0.08445029740718127</data>
+  <data key="d17">0.25245901639344265</data>
+  <data key="d18">0.11922303809401562</data>
+  <data key="d19">Continental Asia (China-centred)</data>
+  <data key="d20">C · Developing</data>
+</node>
+<node id="THA">
+  <data key="d0">Thailand</data>
+  <data key="d1">THA</data>
+  <data key="d2">South-eastern Asia</data>
+  <data key="d3">Asia</data>
+  <data key="d4">0</data>
+  <data key="d5">0</data>
+  <data key="d6">0</data>
+  <data key="d7">13.76</data>
+  <data key="d8">100.5</data>
+  <data key="d9">0.798</data>
+  <data key="d10">76.4</data>
+  <data key="d11">15.4</data>
+  <data key="d12">9.0</data>
+  <data key="d13">20570</data>
+  <data key="d14">High</data>
+  <data key="d15">4</data>
+  <data key="d16">0.12346206425153794</data>
+  <data key="d17">0.2098092643051771</data>
+  <data key="d18">0.04917384952458331</data>
+  <data key="d19">Continental Asia (China-centred)</data>
+  <data key="d20">B · Upper-middle / transition</data>
+</node>
+<node id="LAO">
+  <data key="d0">Laos</data>
+  <data key="d1">LAO</data>
+  <data key="d2">South-eastern Asia</data>
+  <data key="d3">Asia</data>
+  <data key="d4">1</data>
+  <data key="d5">0</data>
+  <data key="d6">0</data>
+  <data key="d7">17.98</data>
+  <data key="d8">102.63</data>
+  <data key="d9">0.617</data>
+  <data key="d10">69.0</data>
+  <data key="d11">9.6</data>
+  <data key="d12">6.1</data>
+  <data key="d13">8106</data>
+  <data key="d14">Medium</data>
+  <data key="d15">5</data>
+  <data key="d16">0.0764000156047859</data>
+  <data key="d17">0.25245901639344265</data>
+  <data key="d18">0.11050298451333523</data>
+  <data key="d19">Continental Asia (China-centred)</data>
+  <data key="d20">C · Developing</data>
+</node>
+<node id="KHM">
+  <data key="d0">Cambodia</data>
+  <data key="d1">KHM</data>
+  <data key="d2">South-eastern Asia</data>
+  <data key="d3">Asia</data>
+  <data key="d4">0</data>
+  <data key="d5">0</data>
+  <data key="d6">0</data>
+  <data key="d7">11.56</data>
+  <data key="d8">104.92</data>
+  <data key="d9">0.606</data>
+  <data key="d10">70.7</data>
+  <data key="d11">11.2</data>
+  <data key="d12">5.2</data>
+  <data key="d13">4931</data>
+  <data key="d14">Medium</data>
+  <data key="d15">3</data>
+  <data key="d16">0.0010252904989747095</data>
+  <data key="d17">0.20588235294117646</data>
+  <data key="d18">0.04276154248619094</data>
+  <data key="d19">Continental Asia (China-centred)</data>
+  <data key="d20">C · Developing</data>
+</node>
+<node id="VNM">
+  <data key="d0">Viet Nam</data>
+  <data key="d1">VNM</data>
+  <data key="d2">South-eastern Asia</data>
+  <data key="d3">Asia</data>
+  <data key="d4">0</data>
+  <data key="d5">0</data>
+  <data key="d6">0</data>
+  <data key="d7">21.03</data>
+  <data key="d8">105.85</data>
+  <data key="d9">0.766</data>
+  <data key="d10">74.6</data>
+  <data key="d11">15.5</data>
+  <data key="d12">9.0</data>
+  <data key="d13">13033</data>
+  <data key="d14">High</data>
+  <data key="d15">3</data>
+  <data key="d16">0.011363636363636364</data>
+  <data key="d17">0.24600638977635783</data>
+  <data key="d18">0.08549395265843426</data>
+  <data key="d19">Continental Asia (China-centred)</data>
+  <data key="d20">B · Upper-middle / transition</data>
+</node>
+<node id="MYS">
+  <data key="d0">Malaysia</data>
+  <data key="d1">MYS</data>
+  <data key="d2">South-eastern Asia</data>
+  <data key="d3">Asia</data>
+  <data key="d4">0</data>
+  <data key="d5">0</data>
+  <data key="d6">0</data>
+  <data key="d7">4.0</data>
+  <data key="d8">102.0</data>
+  <data key="d9">0.819</data>
+  <data key="d10">76.7</data>
+  <data key="d11">12.7</data>
+  <data key="d12">11.1</data>
+  <data key="d13">32553</data>
+  <data key="d14">Very high</data>
+  <data key="d15">4</data>
+  <data key="d16">0.10150375939849625</data>
+  <data key="d17">0.17701149425287357</data>
+  <data key="d18">0.009447895523400042</data>
+  <data key="d19">Maritime South-East Asia</data>
+  <data key="d20">B · Upper-middle / transition</data>
+</node>
+<node id="SGP">
+  <data key="d0">Singapore</data>
+  <data key="d1">SGP</data>
+  <data key="d2">South-eastern Asia</data>
+  <data key="d3">Asia</data>
+  <data key="d4">0</data>
+  <data key="d5">0</data>
+  <data key="d6">0</data>
+  <data key="d7">1.3</data>
+  <data key="d8">103.8</data>
+  <data key="d9">0.946</data>
+  <data key="d10">83.7</data>
+  <data key="d11">16.7</data>
+  <data key="d12">12.0</data>
+  <data key="d13">111239</data>
+  <data key="d14">Very high</data>
+  <data key="d15">1</data>
+  <data key="d16">0.0</data>
+  <data key="d17">0.1506849315068493</data>
+  <data key="d18">0.001647849699775633</data>
+  <data key="d19">Maritime South-East Asia</data>
+  <data key="d20">A · Advanced</data>
+</node>
+<node id="BRN">
+  <data key="d0">Brunei</data>
+  <data key="d1">BRN</data>
+  <data key="d2">South-eastern Asia</data>
+  <data key="d3">Asia</data>
+  <data key="d4">0</data>
+  <data key="d5">0</data>
+  <data key="d6">0</data>
+  <data key="d7">4.9</data>
+  <data key="d8">114.94</data>
+  <data key="d9">0.837</data>
+  <data key="d10">75.3</data>
+  <data key="d11">13.7</data>
+  <data key="d12">9.3</data>
+  <data key="d13">75827</data>
+  <data key="d14">Very high</data>
+  <data key="d15">1</data>
+  <data key="d16">0.0</data>
+  <data key="d17">0.1506849315068493</data>
+  <data key="d18">0.001647849699775633</data>
+  <data key="d19">Maritime South-East Asia</data>
+  <data key="d20">B · Upper-middle / transition</data>
+</node>
+<node id="IDN">
+  <data key="d0">Indonesia</data>
+  <data key="d1">IDN</data>
+  <data key="d2">South-eastern Asia</data>
+  <data key="d3">Asia</data>
+  <data key="d4">0</data>
+  <data key="d5">0</data>
+  <data key="d6">0</data>
+  <data key="d7">-2.5</data>
+  <data key="d8">113.0</data>
+  <data key="d9">0.728</data>
+  <data key="d10">71.1</data>
+  <data key="d11">13.3</data>
+  <data key="d12">8.7</data>
+  <data key="d13">13700</data>
+  <data key="d14">High</data>
+  <data key="d15">2</data>
+  <data key="d16">0.025974025974025976</data>
+  <data key="d17">0.1512770137524558</data>
+  <data key="d18">0.0016995502955494143</data>
+  <data key="d19">Maritime South-East Asia</data>
+  <data key="d20">B · Upper-middle / transition</data>
+</node>
+<node id="TLS">
+  <data key="d0">Timor-Leste</data>
+  <data key="d1">TLS</data>
+  <data key="d2">South-eastern Asia</data>
+  <data key="d3">Asia</data>
+  <data key="d4">0</data>
+  <data key="d5">0</data>
+  <data key="d6">0</data>
+  <data key="d7">-8.56</data>
+  <data key="d8">125.57</data>
+  <data key="d9">0.634</data>
+  <data key="d10">67.7</data>
+  <data key="d11">13.3</data>
+  <data key="d12">6.2</data>
+  <data key="d13">5435</data>
+  <data key="d14">Medium</data>
+  <data key="d15">1</data>
+  <data key="d16">0.0</data>
+  <data key="d17">0.13162393162393163</data>
+  <data key="d18">0.00029642538182778</data>
+  <data key="d19">Maritime South-East Asia</data>
+  <data key="d20">C · Developing</data>
+</node>
+<edge source="ALB" target="GRC">
+  <data key="d21">land border</data>
+</edge>
+<edge source="ALB" target="MKD">
+  <data key="d21">land border</data>
+</edge>
+<edge source="ALB" target="MNE">
+  <data key="d21">land border</data>
+</edge>
+<edge source="AUT" target="CHE">
+  <data key="d21">land border</data>
+</edge>
+<edge source="AUT" target="CZE">
+  <data key="d21">land border</data>
+</edge>
+<edge source="AUT" target="DEU">
+  <data key="d21">land border</data>
+</edge>
+<edge source="AUT" target="HUN">
+  <data key="d21">land border</data>
+</edge>
+<edge source="AUT" target="ITA">
+  <data key="d21">land border</data>
+</edge>
+<edge source="AUT" target="SVK">
+  <data key="d21">land border</data>
+</edge>
+<edge source="AUT" target="SVN">
+  <data key="d21">land border</data>
+</edge>
+<edge source="BLR" target="LTU">
+  <data key="d21">land border</data>
+</edge>
+<edge source="BLR" target="LVA">
+  <data key="d21">land border</data>
+</edge>
+<edge source="BLR" target="POL">
+  <data key="d21">land border</data>
+</edge>
+<edge source="BLR" target="RUS">
+  <data key="d21">land border</data>
+</edge>
+<edge source="BLR" target="UKR">
+  <data key="d21">land border</data>
+</edge>
+<edge source="BEL" target="DEU">
+  <data key="d21">land border</data>
+</edge>
+<edge source="BEL" target="FRA">
+  <data key="d21">land border</data>
+</edge>
+<edge source="BEL" target="LUX">
+  <data key="d21">land border</data>
+</edge>
+<edge source="BEL" target="NLD">
+  <data key="d21">land border</data>
+</edge>
+<edge source="BIH" target="HRV">
+  <data key="d21">land border</data>
+</edge>
+<edge source="BIH" target="MNE">
+  <data key="d21">land border</data>
+</edge>
+<edge source="BIH" target="SRB">
+  <data key="d21">land border</data>
+</edge>
+<edge source="BGR" target="GRC">
+  <data key="d21">land border</data>
+</edge>
+<edge source="BGR" target="MKD">
+  <data key="d21">land border</data>
+</edge>
+<edge source="BGR" target="ROU">
+  <data key="d21">land border</data>
+</edge>
+<edge source="BGR" target="SRB">
+  <data key="d21">land border</data>
+</edge>
+<edge source="BGR" target="TUR">
+  <data key="d21">land border</data>
+</edge>
+<edge source="HRV" target="HUN">
+  <data key="d21">land border</data>
+</edge>
+<edge source="HRV" target="MNE">
+  <data key="d21">land border</data>
+</edge>
+<edge source="HRV" target="SRB">
+  <data key="d21">land border</data>
+</edge>
+<edge source="HRV" target="SVN">
+  <data key="d21">land border</data>
+</edge>
+<edge source="CZE" target="DEU">
+  <data key="d21">land border</data>
+</edge>
+<edge source="CZE" target="POL">
+  <data key="d21">land border</data>
+</edge>
+<edge source="CZE" target="SVK">
+  <data key="d21">land border</data>
+</edge>
+<edge source="DNK" target="DEU">
+  <data key="d21">land border</data>
+</edge>
+<edge source="DNK" target="SWE">
+  <data key="d21">fixed link</data>
+</edge>
+<edge source="EST" target="LVA">
+  <data key="d21">land border</data>
+</edge>
+<edge source="EST" target="RUS">
+  <data key="d21">land border</data>
+</edge>
+<edge source="FIN" target="NOR">
+  <data key="d21">land border</data>
+</edge>
+<edge source="FIN" target="RUS">
+  <data key="d21">land border</data>
+</edge>
+<edge source="FIN" target="SWE">
+  <data key="d21">land border</data>
+</edge>
+<edge source="FRA" target="CHE">
+  <data key="d21">land border</data>
+</edge>
+<edge source="FRA" target="DEU">
+  <data key="d21">land border</data>
+</edge>
+<edge source="FRA" target="ESP">
+  <data key="d21">land border</data>
+</edge>
+<edge source="FRA" target="ITA">
+  <data key="d21">land border</data>
+</edge>
+<edge source="FRA" target="LUX">
+  <data key="d21">land border</data>
+</edge>
+<edge source="FRA" target="GBR">
+  <data key="d21">fixed link</data>
+</edge>
+<edge source="DEU" target="CHE">
+  <data key="d21">land border</data>
+</edge>
+<edge source="DEU" target="LUX">
+  <data key="d21">land border</data>
+</edge>
+<edge source="DEU" target="NLD">
+  <data key="d21">land border</data>
+</edge>
+<edge source="DEU" target="POL">
+  <data key="d21">land border</data>
+</edge>
+<edge source="GRC" target="MKD">
+  <data key="d21">land border</data>
+</edge>
+<edge source="GRC" target="TUR">
+  <data key="d21">land border</data>
+</edge>
+<edge source="HUN" target="ROU">
+  <data key="d21">land border</data>
+</edge>
+<edge source="HUN" target="SRB">
+  <data key="d21">land border</data>
+</edge>
+<edge source="HUN" target="SVK">
+  <data key="d21">land border</data>
+</edge>
+<edge source="HUN" target="SVN">
+  <data key="d21">land border</data>
+</edge>
+<edge source="HUN" target="UKR">
+  <data key="d21">land border</data>
+</edge>
+<edge source="IRL" target="GBR">
+  <data key="d21">land border</data>
+</edge>
+<edge source="ITA" target="CHE">
+  <data key="d21">land border</data>
+</edge>
+<edge source="ITA" target="SVN">
+  <data key="d21">land border</data>
+</edge>
+<edge source="LVA" target="LTU">
+  <data key="d21">land border</data>
+</edge>
+<edge source="LVA" target="RUS">
+  <data key="d21">land border</data>
+</edge>
+<edge source="LTU" target="POL">
+  <data key="d21">land border</data>
+</edge>
+<edge source="LTU" target="RUS">
+  <data key="d21">land border</data>
+</edge>
+<edge source="MDA" target="ROU">
+  <data key="d21">land border</data>
+</edge>
+<edge source="MDA" target="UKR">
+  <data key="d21">land border</data>
+</edge>
+<edge source="MNE" target="SRB">
+  <data key="d21">land border</data>
+</edge>
+<edge source="MKD" target="SRB">
+  <data key="d21">land border</data>
+</edge>
+<edge source="NOR" target="RUS">
+  <data key="d21">land border</data>
+</edge>
+<edge source="NOR" target="SWE">
+  <data key="d21">land border</data>
+</edge>
+<edge source="POL" target="RUS">
+  <data key="d21">land border</data>
+</edge>
+<edge source="POL" target="SVK">
+  <data key="d21">land border</data>
+</edge>
+<edge source="POL" target="UKR">
+  <data key="d21">land border</data>
+</edge>
+<edge source="PRT" target="ESP">
+  <data key="d21">land border</data>
+</edge>
+<edge source="ROU" target="SRB">
+  <data key="d21">land border</data>
+</edge>
+<edge source="ROU" target="UKR">
+  <data key="d21">land border</data>
+</edge>
+<edge source="RUS" target="AZE">
+  <data key="d21">land border</data>
+</edge>
+<edge source="RUS" target="CHN">
+  <data key="d21">land border</data>
+</edge>
+<edge source="RUS" target="GEO">
+  <data key="d21">land border</data>
+</edge>
+<edge source="RUS" target="KAZ">
+  <data key="d21">land border</data>
+</edge>
+<edge source="RUS" target="MNG">
+  <data key="d21">land border</data>
+</edge>
+<edge source="RUS" target="UKR">
+  <data key="d21">land border</data>
+</edge>
+<edge source="SVK" target="UKR">
+  <data key="d21">land border</data>
+</edge>
+<edge source="TUR" target="ARM">
+  <data key="d21">land border</data>
+</edge>
+<edge source="TUR" target="AZE">
+  <data key="d21">land border</data>
+</edge>
+<edge source="TUR" target="GEO">
+  <data key="d21">land border</data>
+</edge>
+<edge source="TUR" target="IRN">
+  <data key="d21">land border</data>
+</edge>
+<edge source="TUR" target="IRQ">
+  <data key="d21">land border</data>
+</edge>
+<edge source="TUR" target="SYR">
+  <data key="d21">land border</data>
+</edge>
+<edge source="GEO" target="ARM">
+  <data key="d21">land border</data>
+</edge>
+<edge source="GEO" target="AZE">
+  <data key="d21">land border</data>
+</edge>
+<edge source="ARM" target="AZE">
+  <data key="d21">land border</data>
+</edge>
+<edge source="ARM" target="IRN">
+  <data key="d21">land border</data>
+</edge>
+<edge source="AZE" target="IRN">
+  <data key="d21">land border</data>
+</edge>
+<edge source="IRN" target="AFG">
+  <data key="d21">land border</data>
+</edge>
+<edge source="IRN" target="IRQ">
+  <data key="d21">land border</data>
+</edge>
+<edge source="IRN" target="PAK">
+  <data key="d21">land border</data>
+</edge>
+<edge source="IRN" target="TKM">
+  <data key="d21">land border</data>
+</edge>
+<edge source="IRQ" target="JOR">
+  <data key="d21">land border</data>
+</edge>
+<edge source="IRQ" target="KWT">
+  <data key="d21">land border</data>
+</edge>
+<edge source="IRQ" target="SAU">
+  <data key="d21">land border</data>
+</edge>
+<edge source="IRQ" target="SYR">
+  <data key="d21">land border</data>
+</edge>
+<edge source="SYR" target="ISR">
+  <data key="d21">land border</data>
+</edge>
+<edge source="SYR" target="JOR">
+  <data key="d21">land border</data>
+</edge>
+<edge source="SYR" target="LBN">
+  <data key="d21">land border</data>
+</edge>
+<edge source="LBN" target="ISR">
+  <data key="d21">land border</data>
+</edge>
+<edge source="ISR" target="JOR">
+  <data key="d21">land border</data>
+</edge>
+<edge source="ISR" target="PSE">
+  <data key="d21">land border</data>
+</edge>
+<edge source="PSE" target="JOR">
+  <data key="d21">land border</data>
+</edge>
+<edge source="JOR" target="SAU">
+  <data key="d21">land border</data>
+</edge>
+<edge source="SAU" target="ARE">
+  <data key="d21">land border</data>
+</edge>
+<edge source="SAU" target="KWT">
+  <data key="d21">land border</data>
+</edge>
+<edge source="SAU" target="OMN">
+  <data key="d21">land border</data>
+</edge>
+<edge source="SAU" target="QAT">
+  <data key="d21">land border</data>
+</edge>
+<edge source="SAU" target="YEM">
+  <data key="d21">land border</data>
+</edge>
+<edge source="SAU" target="BHR">
+  <data key="d21">fixed link</data>
+</edge>
+<edge source="ARE" target="OMN">
+  <data key="d21">land border</data>
+</edge>
+<edge source="OMN" target="YEM">
+  <data key="d21">land border</data>
+</edge>
+<edge source="KAZ" target="CHN">
+  <data key="d21">land border</data>
+</edge>
+<edge source="KAZ" target="KGZ">
+  <data key="d21">land border</data>
+</edge>
+<edge source="KAZ" target="TKM">
+  <data key="d21">land border</data>
+</edge>
+<edge source="KAZ" target="UZB">
+  <data key="d21">land border</data>
+</edge>
+<edge source="UZB" target="AFG">
+  <data key="d21">land border</data>
+</edge>
+<edge source="UZB" target="KGZ">
+  <data key="d21">land border</data>
+</edge>
+<edge source="UZB" target="TJK">
+  <data key="d21">land border</data>
+</edge>
+<edge source="UZB" target="TKM">
+  <data key="d21">land border</data>
+</edge>
+<edge source="TKM" target="AFG">
+  <data key="d21">land border</data>
+</edge>
+<edge source="KGZ" target="CHN">
+  <data key="d21">land border</data>
+</edge>
+<edge source="KGZ" target="TJK">
+  <data key="d21">land border</data>
+</edge>
+<edge source="TJK" target="AFG">
+  <data key="d21">land border</data>
+</edge>
+<edge source="TJK" target="CHN">
+  <data key="d21">land border</data>
+</edge>
+<edge source="AFG" target="CHN">
+  <data key="d21">land border</data>
+</edge>
+<edge source="AFG" target="PAK">
+  <data key="d21">land border</data>
+</edge>
+<edge source="PAK" target="CHN">
+  <data key="d21">land border</data>
+</edge>
+<edge source="PAK" target="IND">
+  <data key="d21">land border</data>
+</edge>
+<edge source="IND" target="BGD">
+  <data key="d21">land border</data>
+</edge>
+<edge source="IND" target="BTN">
+  <data key="d21">land border</data>
+</edge>
+<edge source="IND" target="CHN">
+  <data key="d21">land border</data>
+</edge>
+<edge source="IND" target="MMR">
+  <data key="d21">land border</data>
+</edge>
+<edge source="IND" target="NPL">
+  <data key="d21">land border</data>
+</edge>
+<edge source="NPL" target="CHN">
+  <data key="d21">land border</data>
+</edge>
+<edge source="BTN" target="CHN">
+  <data key="d21">land border</data>
+</edge>
+<edge source="BGD" target="MMR">
+  <data key="d21">land border</data>
+</edge>
+<edge source="CHN" target="LAO">
+  <data key="d21">land border</data>
+</edge>
+<edge source="CHN" target="MMR">
+  <data key="d21">land border</data>
+</edge>
+<edge source="CHN" target="MNG">
+  <data key="d21">land border</data>
+</edge>
+<edge source="CHN" target="VNM">
+  <data key="d21">land border</data>
+</edge>
+<edge source="MMR" target="LAO">
+  <data key="d21">land border</data>
+</edge>
+<edge source="MMR" target="THA">
+  <data key="d21">land border</data>
+</edge>
+<edge source="THA" target="KHM">
+  <data key="d21">land border</data>
+</edge>
+<edge source="THA" target="LAO">
+  <data key="d21">land border</data>
+</edge>
+<edge source="THA" target="MYS">
+  <data key="d21">land border</data>
+</edge>
+<edge source="LAO" target="KHM">
+  <data key="d21">land border</data>
+</edge>
+<edge source="LAO" target="VNM">
+  <data key="d21">land border</data>
+</edge>
+<edge source="KHM" target="VNM">
+  <data key="d21">land border</data>
+</edge>
+<edge source="MYS" target="BRN">
+  <data key="d21">land border</data>
+</edge>
+<edge source="MYS" target="IDN">
+  <data key="d21">land border</data>
+</edge>
+<edge source="MYS" target="SGP">
+  <data key="d21">fixed link</data>
+</edge>
+<edge source="IDN" target="TLS">
+  <data key="d21">land border</data>
+</edge>
+</graph></graphml>
